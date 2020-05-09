@@ -1,4 +1,4 @@
-The code and results are used for binning approaches for metagenomic data.
+# The code and results are used for binning approaches for metagenomic data (Met2Bin).
 
 Before running the scripts for experiment, please visit this website and download the source of deepmg: https://pypi.org/project/deepmg/
 
